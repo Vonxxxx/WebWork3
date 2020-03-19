@@ -33,3 +33,5 @@ Todo中一个任务的JSON格式定义为：
     GET /api/tasks/{id}
 
     DELETE /api/tasks/{id}
+
+**注：在MySql中先创建名为test的数据库，后在Test的数据库中执行Todo的sql文件，获得表数据。**
